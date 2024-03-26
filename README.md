@@ -23,7 +23,7 @@ This repository contains the PyTorch implementation for [ICCV 2021](http://iccv2
     cd datasets
     unzip datasets.zip
     ```
-
+## Also refer to https://github.com/Chanuku/semi_ref2sketch_code
 ### Preprocessing
 - Preprocess raw data:
     ```python
